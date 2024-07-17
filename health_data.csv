@@ -1,0 +1,4 @@
+Age,Height,Weight,BloodPressure,SugarLevel,Cholesterol,Target
+25,175,70,120,85,200,0
+45,160,85,140,90,220,1
+35,170,78,130,88,210,0
